@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'Test Preview Feature on Vercel'
 date: '2020-01-01'
 ---
 
